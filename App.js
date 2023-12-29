@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 
 const Header = () => {
     return (
-        <div className='Header'>
+        <div className='Sarthak'>
             <div>
                 <img className='logo' src='https://t3.ftcdn.net/jpg/02/41/30/72/360_F_241307210_MjjaJC3SJy2zJZ6B7bKGMRsKQbdwRSze.jpg'/>
 
